@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jtarball-jenkins-x
+  repo: reactapp-test-1
+  url: https://github.com/jtarball-jenkins-x/reactapp-test-1.git
+  version: ""
+  versionURL: ""
