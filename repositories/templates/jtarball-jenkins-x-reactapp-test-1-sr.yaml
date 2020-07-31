@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jtarball-jenkins-x
+    provider: github
+    repository: reactapp-test-1
+  name: jtarball-jenkins-x-reactapp-test-1
+spec:
+  description: Imported application for jtarball-jenkins-x/reactapp-test-1
+  httpCloneURL: https://github.com/jtarball-jenkins-x/reactapp-test-1.git
+  org: jtarball-jenkins-x
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: reactapp-test-1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jtarball-jenkins-x/reactapp-test-1.git
