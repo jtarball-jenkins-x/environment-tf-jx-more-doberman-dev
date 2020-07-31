@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jtarball-jenkins-x/reactapp-test-1.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jtarball-jenkins-x
+  repo: react-demo-jenkins-x
+  url: https://github.com/jtarball-jenkins-x/react-demo-jenkins-x.git
+  version: ""
+  versionURL: ""

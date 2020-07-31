@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jtarball-jenkins-x
+    provider: github
+    repository: react-demo-jenkins-x
+  name: jtarball-jenkins-x-react-demo-jenkins-x
+spec:
+  description: Imported application for jtarball-jenkins-x/react-demo-jenkins-x
+  httpCloneURL: https://github.com/jtarball-jenkins-x/react-demo-jenkins-x.git
+  org: jtarball-jenkins-x
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: react-demo-jenkins-x
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jtarball-jenkins-x/react-demo-jenkins-x.git
