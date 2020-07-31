@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:tf-jx-more-doberman/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: danvir.tech@gmail.com
+  token: vault:tf-jx-more-doberman/pipelineUser:token
+  username: jtarballbot
+prow:
+  hmacToken: vault:tf-jx-more-doberman/prow:hmacToken
